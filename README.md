@@ -18,9 +18,9 @@ with your frames click `Play` to see your animation in action.
 
 ## TODOS
 The app needs:
-- [] a lot of UI/UX polish
-- [] a way for the user to save his/her work and load it later
-- [] more tools
-- [] layers functionality(like in Photoshop)
-- [] compatibility with other similar tools
-- [] a better way of storing and playing the animations
+- [ ] a lot of UI/UX polish
+- [ ] a way for the user to save his/her work and load it later
+- [ ] more tools
+- [ ] layers functionality(like in Photoshop)
+- [ ] compatibility with other similar tools
+- [ ] a better way of storing and playing the animations
